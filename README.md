@@ -1,2 +1,2 @@
 # Dice-Simulator
-Dice simulator using python.Roll it out ;)
+Dice simulator using python.Roll the Dice!
